@@ -1,0 +1,45 @@
+# Local and private files
+.Renviron
+.Rhistory
+.RData
+*.RData
+*.rds
+*.RDS
+*.h5
+*.h5ad
+*.loom
+*.gctx
+*.tar
+*.zip
+*.7z
+*.gz.tmp
+*.part
+*.partial
+
+# Credentials and local configuration
+*token*
+*secret*
+*credential*
+*cookie*
+*.pem
+*.key
+config.toml
+auth.json
+
+# Runtime and cache outputs
+__pycache__/
+*.pyc
+.Rproj.user/
+renv/library/
+renv/staging/
+logs/
+tmp/
+cache/
+local_cache/
+tmux/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

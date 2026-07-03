@@ -1,0 +1,299 @@
+TY  - JOUR
+AU  - The Cancer Genome Atlas Research Network
+TI  - Comprehensive genomic characterization defines human glioblastoma genes and core pathways
+JO  - Nature
+PY  - 2008
+VL  - 455
+IS  - 7216
+SP  - 1061
+EP  - 1068
+DO  - 10.1038/nature07385
+UR  - https://doi.org/10.1038/nature07385
+ER  -
+
+TY  - JOUR
+AU  - The Cancer Genome Atlas Research Network
+TI  - Comprehensive, Integrative Genomic Analysis of Diffuse Lower-Grade Gliomas
+JO  - New England Journal of Medicine
+PY  - 2015
+VL  - 372
+IS  - 26
+SP  - 2481
+EP  - 2498
+DO  - 10.1056/NEJMoa1402121
+UR  - https://doi.org/10.1056/NEJMoa1402121
+ER  -
+
+TY  - JOUR
+AU  - Zhao, Zheng
+AU  - Zhang, Ke'nan
+AU  - Wang, Qiangwei
+AU  - Li, Guanzhang
+AU  - Zeng, Fan
+TI  - Chinese Glioma Genome Atlas (CGGA): A Comprehensive Resource with Functional Genomic Data from Chinese Glioma Patients
+JO  - Genomics, Proteomics & Bioinformatics
+PY  - 2021
+VL  - 19
+IS  - 1
+SP  - 1
+EP  - 12
+DO  - 10.1016/j.gpb.2020.10.005
+UR  - https://doi.org/10.1016/j.gpb.2020.10.005
+ER  -
+
+TY  - JOUR
+AU  - Ruiz-Moreno, Cristian
+AU  - Marco Salas, Sergio
+AU  - Samuelsson, Erik
+AU  - Minaeva, Mariia
+AU  - Ibarra, Ignacio
+TI  - Charting the single-cell and spatial landscape of IDH-wild-type glioblastoma with GBmap
+JO  - Neuro-Oncology
+PY  - 2025
+VL  - 27
+IS  - 9
+SP  - 2281
+EP  - 2295
+DO  - 10.1093/neuonc/noaf113
+UR  - https://doi.org/10.1093/neuonc/noaf113
+ER  -
+
+TY  - JOUR
+AU  - Neftel, Cyril
+AU  - Laffy, Julie
+AU  - Filbin, Mariella G.
+AU  - Hara, Toshiro
+AU  - Shore, Marni E.
+TI  - An Integrative Model of Cellular States, Plasticity, and Genetics for Glioblastoma
+JO  - Cell
+PY  - 2019
+VL  - 178
+IS  - 4
+SP  - 835
+EP  - 849.e21
+DO  - 10.1016/j.cell.2019.06.024
+UR  - https://doi.org/10.1016/j.cell.2019.06.024
+ER  -
+
+TY  - JOUR
+AU  - Liberzon, Arthur
+AU  - Birger, Chet
+AU  - Thorvaldsdottir, Helga
+AU  - Ghandi, Mahmoud
+AU  - Mesirov, Jill P.
+AU  - Tamayo, Pablo
+TI  - The Molecular Signatures Database Hallmark Gene Set Collection
+JO  - Cell Systems
+PY  - 2015
+VL  - 1
+IS  - 6
+SP  - 417
+EP  - 425
+DO  - 10.1016/j.cels.2015.12.004
+UR  - https://doi.org/10.1016/j.cels.2015.12.004
+ER  -
+
+TY  - JOUR
+AU  - Subramanian, Aravind
+AU  - Tamayo, Pablo
+AU  - Mootha, Vamsi K.
+AU  - Mukherjee, Sayan
+AU  - Ebert, Benjamin L.
+TI  - Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles
+JO  - Proceedings of the National Academy of Sciences
+PY  - 2005
+VL  - 102
+IS  - 43
+SP  - 15545
+EP  - 15550
+DO  - 10.1073/pnas.0506580102
+UR  - https://doi.org/10.1073/pnas.0506580102
+ER  -
+
+TY  - JOUR
+AU  - Hanzelmann, Sonja
+AU  - Castelo, Robert
+AU  - Guinney, Justin
+TI  - GSVA: gene set variation analysis for microarray and RNA-Seq data
+JO  - BMC Bioinformatics
+PY  - 2013
+VL  - 14
+IS  - 1
+DO  - 10.1186/1471-2105-14-7
+UR  - https://doi.org/10.1186/1471-2105-14-7
+ER  -
+
+TY  - JOUR
+AU  - Milacic, Marija
+AU  - Beavers, Deidre
+AU  - Conley, Patrick
+AU  - Gong, Chuqiao
+AU  - Gillespie, Marc
+TI  - The Reactome Pathway Knowledgebase 2024
+JO  - Nucleic Acids Research
+PY  - 2024
+VL  - 52
+IS  - D1
+SP  - D672
+EP  - D678
+DO  - 10.1093/nar/gkad1025
+UR  - https://doi.org/10.1093/nar/gkad1025
+ER  -
+
+TY  - JOUR
+AU  - Stahl, Patrik L.
+AU  - Salmen, Fredrik
+AU  - Vickovic, Sanja
+AU  - Lundmark, Anna
+AU  - Fernandez Navarro, Jose
+TI  - Visualization and analysis of gene expression in tissue sections by spatial transcriptomics
+JO  - Science
+PY  - 2016
+VL  - 353
+IS  - 6294
+SP  - 78
+EP  - 82
+DO  - 10.1126/science.aaf2403
+UR  - https://doi.org/10.1126/science.aaf2403
+ER  -
+
+TY  - JOUR
+AU  - Stuart, Tim
+AU  - Butler, Andrew
+AU  - Hoffman, Paul
+AU  - Hafemeister, Christoph
+AU  - Papalexi, Efthymia
+TI  - Comprehensive Integration of Single-Cell Data
+JO  - Cell
+PY  - 2019
+VL  - 177
+IS  - 7
+SP  - 1888
+EP  - 1902.e21
+DO  - 10.1016/j.cell.2019.05.031
+UR  - https://doi.org/10.1016/j.cell.2019.05.031
+ER  -
+
+TY  - JOUR
+AU  - Wang, Liang-Bo
+AU  - Karpova, Alla
+AU  - Gritsenko, Marina A.
+AU  - Kyle, Jennifer E.
+AU  - Cao, Song
+TI  - Proteogenomic and metabolomic characterization of human glioblastoma
+JO  - Cancer Cell
+PY  - 2021
+VL  - 39
+IS  - 4
+SP  - 509
+EP  - 528.e20
+DO  - 10.1016/j.ccell.2021.01.006
+UR  - https://doi.org/10.1016/j.ccell.2021.01.006
+ER  -
+
+TY  - JOUR
+AU  - Barthel, Floris P.
+AU  - Johnson, Kevin C.
+AU  - Varn, Frederick S.
+AU  - Moskalik, Anzhela D.
+AU  - Tanner, Georgette
+TI  - Longitudinal molecular trajectories of diffuse glioma in adults
+JO  - Nature
+PY  - 2019
+VL  - 576
+IS  - 7785
+SP  - 112
+EP  - 120
+DO  - 10.1038/s41586-019-1775-1
+UR  - https://doi.org/10.1038/s41586-019-1775-1
+ER  -
+
+TY  - JOUR
+AU  - He, Xiaojuan
+AU  - Huang, Qingfeng
+AU  - Qiu, Xiaojun
+AU  - Liu, Xianchen
+AU  - Sun, Guan
+TI  - LAP3 promotes glioma progression by regulating proliferation, migration and invasion of glioma cells
+JO  - International Journal of Biological Macromolecules
+PY  - 2015
+VL  - 72
+SP  - 1081
+EP  - 1089
+DO  - 10.1016/j.ijbiomac.2014.10.021
+UR  - https://doi.org/10.1016/j.ijbiomac.2014.10.021
+ER  -
+
+TY  - JOUR
+AU  - Sancak, Yasemin
+AU  - Peterson, Timothy R.
+AU  - Shaul, Yuval D.
+AU  - Lindquist, Robert A.
+AU  - Thoreen, Carson C.
+TI  - The Rag GTPases Bind Raptor and Mediate Amino Acid Signaling to mTORC1
+JO  - Science
+PY  - 2008
+VL  - 320
+IS  - 5882
+SP  - 1496
+EP  - 1501
+DO  - 10.1126/science.1157535
+UR  - https://doi.org/10.1126/science.1157535
+ER  -
+
+TY  - JOUR
+AU  - Wolfson, Rachel L.
+AU  - Chantranupong, Lynne
+AU  - Saxton, Robert A.
+AU  - Shen, Kun-Liang
+AU  - Scaria, Suma M.
+TI  - Sestrin2 is a leucine sensor for the mTORC1 pathway
+JO  - Science
+PY  - 2016
+VL  - 351
+IS  - 6268
+SP  - 43
+EP  - 48
+DO  - 10.1126/science.aab2674
+UR  - https://doi.org/10.1126/science.aab2674
+ER  -
+
+TY  - JOUR
+AU  - Freeberg, Mallory A.
+AU  - Fromont, Laura A.
+AU  - D'Altri, Talia
+AU  - Romero, Antonio F.
+AU  - Ciges, Juan I.
+TI  - The European Genome-phenome Archive in 2021
+JO  - Nucleic Acids Research
+PY  - 2022
+VL  - 50
+IS  - D1
+SP  - D980
+EP  - D987
+DO  - 10.1093/nar/gkab1059
+UR  - https://doi.org/10.1093/nar/gkab1059
+ER  -
+
+TY  - JOUR
+AU  - de Jong, Grant
+AU  - Memi, Fani
+AU  - Gracia, Tannia
+AU  - Lazareva, Olga
+AU  - Gould, Oliver
+TI  - A spatiotemporal cancer cell trajectory underlies glioblastoma heterogeneity
+JO  - bioRxiv
+PY  - 2025
+DO  - 10.1101/2025.05.13.653495
+UR  - https://doi.org/10.1101/2025.05.13.653495
+ER  -
+
+TY  - DATA
+TI  - GBM-Space: Spatial Transcriptomic Profiling of Glioblastoma (10x Genomics - Visium)
+PB  - European Genome-phenome Archive
+PY  - 2026
+AN  - EGAD00001015527
+UR  - https://ega-archive.org/datasets/EGAD00001015527
+N1  - Study EGAS00001005801; DAC EGAC00001000205. EGA page noted two new samples added on 2026-05-19; project analyses use the local downloaded/cache version.
+ER  -
+
