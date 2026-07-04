@@ -6,14 +6,19 @@ Repository URL: https://github.com/lzbkk/glioma-public-data-archive
 
 ## Scope
 
-This public archive contains analysis scripts, derived source-data packages,
-journal-facing supplementary tables and metadata for a public multi-omic glioma
-study centered on LAP3 as a malignant-microenvironmental state anchor.
+This Zenodo dataset record contains derived source-data packages,
+journal-facing supplementary tables and public-facing metadata for a public
+multi-omic glioma study centered on LAP3 as a malignant-microenvironmental
+state anchor.
+
+The associated GitHub repository provides the analysis scripts and repository
+layout needed to inspect how the derived outputs were generated:
+https://github.com/lzbkk/glioma-public-data-archive.
 
 The archive does not redistribute controlled-access raw data, third-party raw
 omics files or controlled-access spot-level spatial coordinate/score tables.
 
-## Top-Level Contents
+## Associated GitHub Repository Layout
 
 | Path | Contents |
 |---|---|
