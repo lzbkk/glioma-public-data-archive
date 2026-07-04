@@ -20,22 +20,24 @@ omics files or controlled-access spot-level spatial coordinate/score tables.
 
 ## Associated GitHub Repository Layout
 
-| Path | Contents |
-|---|---|
-| `README.md` | Repository overview, third-party data access routes and rebuild notes |
-| `archive/` | Derived source-data and supplementary-table packages for manuscript support |
-| `metadata/` | Data/code availability notes, supplementary manifests and reference metadata |
-| `scripts/` | Analysis and package-building scripts organized by data layer |
-| `LICENSE_NOTICE.md` | Licence and third-party data-use boundary |
-| `.gitignore` | Guardrails against raw data, caches and credentials |
+- `README.md`: repository overview, third-party data access routes and rebuild notes.
+- `archive/`: derived source-data and supplementary-table packages for manuscript support.
+- `metadata/`: data/code availability notes, supplementary manifests and reference metadata.
+- `scripts/`: analysis and package-building scripts organized by data layer.
+- `LICENSE_NOTICE.md`: licence and third-party data-use boundary.
+- `.gitignore`: guardrails against raw data, caches and credentials.
 
 ## Main Archived Files
 
-| File | SHA256 |
-|---|---|
-| `archive/Source_Data_Package_20260702.tar.gz` | `4040417bfc65863b3698d9d7ca5bc2884c7d90ab92f24370f1a98a9b0e57021c` |
-| `archive/Journal_Supplementary_Tables_20260702.tar.gz` | `061ad7e295f4fba4c046f4efd46abd68ba34f9bd13c119328773d49b89bd9b43` |
-| `archive/Supplementary_Tables_1_11_JournalFacing.xlsx` | `52f0b9e830cef7ef0f364a0acf11145973f9b5355ee4134f4736ae85c4a562e8` |
+- `archive/Source_Data_Package_20260702.tar.gz`
+  SHA256: `4040417bfc65863b3698d9d7ca5bc2884c7d90ab92f24370f1a98a9b0e57021c`
+- `archive/Journal_Supplementary_Tables_20260702.tar.gz`
+  SHA256: `061ad7e295f4fba4c046f4efd46abd68ba34f9bd13c119328773d49b89bd9b43`
+- `archive/Supplementary_Tables_1_11_JournalFacing.xlsx`
+  SHA256: `52f0b9e830cef7ef0f364a0acf11145973f9b5355ee4134f4736ae85c4a562e8`
+
+`CHECKSUMS.sha256` covers all non-checksum public files included in the
+Zenodo dataset record.
 
 ## Do Not Upload / Do Not Redistribute
 
@@ -51,6 +53,8 @@ The following file types or data classes should not be added to this repository:
 ## Citation and Version
 
 Archive version: `v20260703`
+
+The archive version `v20260703` refers to the finalized archive package date.
 
 Zenodo version DOI for this dataset record:
 
