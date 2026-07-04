@@ -1,6 +1,6 @@
 # LAP3 Glioma State Public Multi-Omics Study
 
-Status: public repository staging package; Zenodo DOI is pending.
+Status: public repository for manuscript source-data and analysis-code support.
 
 Repository URL: https://github.com/lzbkk/glioma-public-data-archive
 
@@ -26,12 +26,14 @@ redistribute controlled-access or third-party raw data.
 ## Manuscript Artifacts
 
 Generated source-data and supplementary-table packages are included here under
-`archive/` and are intended to be archived through Zenodo:
+`archive/` and are archived through the linked Zenodo dataset record. Analysis
+scripts are kept in this GitHub repository rather than in a separate Zenodo code
+tarball:
 
 ```text
-Zenodo DOI: [TO ADD]
-Zenodo record URL: [TO ADD]
-Release version: v20260702 [TO CONFIRM]
+Zenodo version DOI: 10.5281/zenodo.21161701
+Zenodo concept DOI: 10.5281/zenodo.21161700
+Release version: v20260703
 ```
 
 Current archive files:
@@ -110,21 +112,34 @@ large third-party inputs that are not redistributed in this repository.
 
 ## Licences
 
-Recommended pending author/institution confirmation:
-
 ```text
-Code: MIT License
 Generated derived source data and supplementary tables: CC BY 4.0
 ```
 
-These licences apply only to this study's generated code and derived outputs.
-They do not change access terms for third-party datasets.
+This licence applies only to this study's generated derived outputs and
+documentation in the Zenodo dataset record. It does not change access terms for
+third-party datasets. Code licensing for the associated GitHub repository is
+handled separately from the Zenodo dataset record.
+
+## Controlled-Access Boundary
+
+The public source-data package does not include GBM-Space raw Visium files,
+complete expression matrices, H5AD/tarball files or controlled-access
+spot-level spatial coordinate/score tables. The Supplementary Fig. S4A public
+source-data file is a section-level provenance/summary placeholder; users with
+appropriate EGA access can regenerate the full panel source table from the
+analysis scripts and controlled source data.
 
 ## Citation
 
+Use the Zenodo version DOI for the source-data and supplementary-table package:
+
 ```text
-[TO ADD after Zenodo DOI is created]
+10.5281/zenodo.21161701
 ```
 
-If citing the source-data/supplement package, use the Zenodo DOI once available.
-If citing the code, use the GitHub release and linked Zenodo DOI once available.
+For the associated analysis scripts, cite the GitHub repository:
+
+```text
+https://github.com/lzbkk/glioma-public-data-archive
+```
